@@ -52,5 +52,3 @@ A arquitetura do projeto baseia-se em pilares modernos de sustentabilidade:
 * **Descarbonização Auditável:** Eliminação de gases de efeito estufa associados ao ciclo de recarga, quantificada pela fórmula:
 
 $$\text{CO}_2\text{ evitado} = E_{\text{solar}} \times EF_{\text{rede}}$$
-
-*(Onde $E_{\text{solar}}$ é a energia solar gerada localmente e $EF_{\text{rede}}$ representa o fator de emissão da rede elétrica).*
