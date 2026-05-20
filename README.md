@@ -20,9 +20,11 @@ A rápida expansão da eletromobilidade trouxe desafios críticos para as redes 
 ---
 
 ## Proposta de Solução Comercial
-O **SmartGrid EV** propõe uma solução integrada que une geração renovável local à gestão inteligente da recarga:
-* **Ecossistema GoodWe (Infraestrutura):** Uso teórico de carregadores EV inteligentes e inversores híbridos para dar suporte físico e conversão de energia limpa no eletroposto.
-* **Camada FIAP (Inteligência):** Desenvolvimento de um algoritmo de software dedicado a monitorar, simular e otimizar as sessões de recarga, com previsão para integração futura de sistemas de pagamento.
+O objetivo do nosso projeto no **EV Challenge 2026** é viabilizar a transição de um carregador de perfil residencial da GoodWe para um modelo de operação **comercial**. 
+
+A solução proposta une a geração de energia renovável local à gestão inteligente da recarga em duas camadas:
+* **Ecossistema GoodWe (Infraestrutura):** Uso de carregadores EV inteligentes e inversores híbridos da marca para dar o suporte físico ao eletroposto e captar energia solar.
+* **Camada FIAP (Inteligência):** Aplicação de um programa de gestão e controle de energia capaz de monitorar, simular e otimizar as sessões de recarga, viabilizando a futura integração de um sistema de pagamento para concluir a proposta comercial.
 
 ---
 
